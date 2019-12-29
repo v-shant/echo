@@ -1,4 +1,4 @@
-sourceBasePath: https://github.com/v-shant/echo/tree/master/src
+sourceBasePath: https://raw.githubusercontent.com/v-shant/echo/master/src
 commands:
   echo:
     sourcePath: /echo.js
