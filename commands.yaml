@@ -1,7 +1,5 @@
-sourceBasePath: https://raw.githubusercontent.com/v-shant/echo/master/src
 commands:
   echo2:
-    sourcePath: /echo.js
     description: simple echo test
     parameters:
       - name: msg
