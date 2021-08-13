@@ -1,4 +1,4 @@
-sourceBasePath: https://raw.githubusercontent.com/nimbella/command-sets/master/echo/src
+sourceBasePath: https://raw.githubusercontent.com/v-shant/echo/master/src
 commands:
   echo:
     sourcePath: /echo.js
