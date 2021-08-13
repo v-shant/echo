@@ -1,6 +1,18 @@
 sourceBasePath: https://raw.githubusercontent.com/v-shant/echo/master/src
 commands:
   echo:
+    oauth: echoOauth
+    sourcePath: /echo.js
+    description: simple echo test
+    parameters:
+      - name: msg
+  echo2:
+    oauth: echoOauth2
+    sourcePath: /echo.js
+    description: simple echo test
+    parameters:
+      - name: msg
+  echo3:
     sourcePath: /echo.js
     description: simple echo test
     parameters:
